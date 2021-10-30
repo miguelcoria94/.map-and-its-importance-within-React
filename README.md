@@ -1,5 +1,7 @@
-# cd into ./using-map-with-react
+#How to start the application
 
-# run command "npm install"
+cd into ./using-map-with-react
 
-# start app by running "npm start"
+run command "npm install" to install dependencies
+
+start app by running "npm start"
