@@ -1,4 +1,4 @@
-#How to start the application
+# How to start the application
 
 cd into ./using-map-with-react
 
